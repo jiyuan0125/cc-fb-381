@@ -1,0 +1,17 @@
+# 运单指标波次刷新日志
+2026-11-15 05:02:10 | wave=2026091508 | file=waves/2026091508.csv | rows=36 | new_events=36 | dup_events=0 | updated_waybills=28 | status: 已揽收=18 运输中=10
+2026-11-15 05:02:10 | wave=2026091509 | file=waves/2026091509.csv | rows=42 | new_events=42 | dup_events=0 | updated_waybills=38 | status: 已揽收=13 运输中=18 派送中=6 退回中=1
+2026-11-15 05:02:10 | wave=2026091510 | file=waves/2026091510.csv | rows=49 | new_events=49 | dup_events=0 | updated_waybills=43 | status: 已揽收=5 运输中=22 派送中=11 退回中=4 退回重派中=1
+2026-11-15 05:02:10 | wave=2026091511 | file=waves/2026091511.csv | rows=37 | new_events=32 | dup_events=5 | updated_waybills=29 | status: 运输中=15 派送中=2 退回中=1 退回重派中=4 已签收=7
+2026-11-15 05:02:10 | wave=2026091512 | file=waves/2026091512.csv | rows=32 | new_events=32 | dup_events=0 | updated_waybills=28 | status: 运输中=8 派送中=7 退回中=1 退回重派中=3 已签收=9
+2026-11-15 05:02:10 | wave=2026091513 | file=waves/2026091513.csv | rows=25 | new_events=25 | dup_events=0 | updated_waybills=24 | status: 运输中=4 派送中=9 退回重派中=2 已签收=9
+2026-11-15 05:02:10 | wave=2026091514 | file=waves/2026091514.csv | rows=29 | new_events=24 | dup_events=5 | updated_waybills=24 | status: 运输中=2 派送中=11 退回重派中=1 已签收=10
+2026-11-15 05:02:10 | wave=2026091515 | file=waves/2026091515.csv | rows=9 | new_events=9 | dup_events=0 | updated_waybills=9 | status: 已签收=9
+2026-11-15 05:02:34 | wave=2026091508 | file=waves/2026091508.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091509 | file=waves/2026091509.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091510 | file=waves/2026091510.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091511 | file=waves/2026091511.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091512 | file=waves/2026091512.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091513 | file=waves/2026091513.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091514 | file=waves/2026091514.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
+2026-11-15 05:02:34 | wave=2026091515 | file=waves/2026091515.csv | skipped: 该波次内容已处理过 | updated_waybills=0 | status: -
